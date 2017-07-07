@@ -1,0 +1,9 @@
+c:\users\lomztein\documents\visual studio 2017\Projects\ResponseBot\ResponseBot\bin\Debug\netcoreapp1.1\ResponseBot.deps.json
+c:\users\lomztein\documents\visual studio 2017\Projects\ResponseBot\ResponseBot\bin\Debug\netcoreapp1.1\ResponseBot.runtimeconfig.json
+c:\users\lomztein\documents\visual studio 2017\Projects\ResponseBot\ResponseBot\bin\Debug\netcoreapp1.1\ResponseBot.runtimeconfig.dev.json
+c:\users\lomztein\documents\visual studio 2017\Projects\ResponseBot\ResponseBot\bin\Debug\netcoreapp1.1\ResponseBot.dll
+c:\users\lomztein\documents\visual studio 2017\Projects\ResponseBot\ResponseBot\obj\Debug\netcoreapp1.1\ResponseBot.csprojResolveAssemblyReference.cache
+c:\users\lomztein\documents\visual studio 2017\Projects\ResponseBot\ResponseBot\obj\Debug\netcoreapp1.1\ResponseBot.AssemblyInfo.cs
+C:\Users\Lomztein\documents\visual studio 2017\Projects\ResponseBot\ResponseBot\bin\Debug\netcoreapp1.1\ResponseBot.pdb
+C:\Users\Lomztein\documents\visual studio 2017\Projects\ResponseBot\ResponseBot\obj\Debug\netcoreapp1.1\ResponseBot.dll
+C:\Users\Lomztein\documents\visual studio 2017\Projects\ResponseBot\ResponseBot\obj\Debug\netcoreapp1.1\ResponseBot.pdb
